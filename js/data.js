@@ -7,7 +7,7 @@ export const paintings = [
             artist: "Jeff Koons",
             auctionDate: 2019,
             auctionHouse: "Christie's",
-            imageURL: "https://en.wikipedia.org/wiki/File:Rabbit_(1986)_by_Jeff_Koons.jpg"
+            imageURL: "https://media.npr.org/assets/img/2019/05/16/ap_19123535558210-a0447ff0d9ee9b0b87776576d9aa3d364ae02798.jpg"
         },
         {
             price: 92.48,
@@ -23,7 +23,7 @@ export const paintings = [
             artist: "Jeff Koons",
             auctionDate: 2013,
             auctionHouse: "Christie's",
-            imageURL: "https://lh3.googleusercontent.com/proxy/uTl-0lWITxzADqtvieFa3Q4ygMl81VcKahtihJTYuHOdYXonHkCUSFb9cTqsnmAxHJUrCQpbOUBdiJjnjveYwQKaG4d0LF12mClHJFeGfA2GmAogVEFt2VUwkRSVIY0uZUmHC81a60XR"
+            imageURL: "https://socialartprize.com/upload/blogImages/15949860842cover.jpg"
         },
         {
             price: 48.93,
