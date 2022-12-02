@@ -1,31 +1,32 @@
-Maak zoveel mogelijk gebruik van string-literals en array-methodes. 
+# The most expensive paintings
+
+> Tip: try to pay attention to the benefits of using string literals or array methods.
+
+## Step 1:
+
+Make sure all paintings are shown on the web page. Use the html snippet in index.html to do this.
 
 
-##Stap 1:
+## Step 2:
 
-Zorg ervoor dat alle schilderijen getoond worden op de webpagina. Maak hiervoor gebruik van de html-snippet in index.html. 
-
-
-##Stap 2:
-
-Voeg eventHandlers toe voor alle radioButtons. De waarden van de radioButtons worden bijgehouden onder gallery.userInput.
+Add eventHandlers for all radioButtons. The values of the radioButtons are kept under gallery.userInput.
 
 
-##Stap 3:
+## Step 3:
 
-Maak een sorteerfunctie aan. Afhankelijk van de userInput sorteert deze op prijs of titel.
-
-
-##Stap 4:
-
-Maak een filterfunctie aan. Deze filtert de schilderijen op basis van de geselecteerde artiest. Voorzie ook een all optie.
+Create a sort function. Depending on the userInput, it sorts by price or title.
 
 
-##Stap 5: 
+## Step 4:
 
-Zorg ervoor dat je webpagina in alle omstandigheden correct blijft functioneren. Wanneer de gebruiker eerst sorteert op titel en daarna filtert op een bepaalde artiest, moeten de resultaten nog steeds gesorteerd worden op titel en vice versa.
+Create a filter function. This filters the paintings based on the selected artist. Also provide an all option.
 
 
-##Stap 6 (extra):
+## Step 5:
 
-Bereken een totaalprijs de getoonde schilderijen en toon deze in #total. Maak ook hiervoor gebruik van een array-functie.
+Make sure your web page continues to function correctly in all circumstances. If the user first sorts by title and then filters by a particular artist, the results should still be sorted by title and vice versa.
+
+
+## Step 6 (additional):
+
+Calculate the total price of the displayed paintings and display it in #total. Use an array function for this.
